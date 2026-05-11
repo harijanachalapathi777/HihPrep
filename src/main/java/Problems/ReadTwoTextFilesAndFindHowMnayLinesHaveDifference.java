@@ -1,10 +1,9 @@
 package Problems;
 
-public class FindKthSmallestAndLargest {
+public class ReadTwoTextFilesAndFindHowMnayLinesHaveDifference {
 
 	public static void main(String[] args) {
 		
-
 	}
 
 }
